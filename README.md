@@ -3,8 +3,8 @@
 $$ V(\mathbf{r}) = \frac{1}{2} M \omega^2 r^2 $$
 
 <div style="display: flex; justify-content: space-around; align-items: center;", align="center">
-  <img src="animations/1D_video.gif" width="45%">
-  <img src="animations/2D_video.gif" width="45%">
+  <img src="animations/1D_video.gif" width="50%">
+  <img src="animations/2D_video.gif" width="50%">
 </div>
 
 # Acknowledgements
